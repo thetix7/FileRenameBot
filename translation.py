@@ -6,7 +6,7 @@ class Translation(object):
 
     BANNED_USER_TEXT = "Sorry!! But cv bot Owner As Banned You From Using This Service. That Means You Can't Run Meh Now! \n \n Contact : @No_OnE_Kn0wS_Me For more Details.. " 
     DOWNLOAD_START = "<b>Downloading 🔄!! Give Some Time🥱🥱</b>"
-    UPLOAD_START = "<b>Downloading Completed Now I'm Uploading Into TeleGram</b>"
+    UPLOAD_START = "<b>Downloading Completed Now I'm Uploading Into TeleGram🍄</b>"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>Thank you for Using Me Support Our Channel @CinemaVeedMovies 🖤❤️</b>"
     SAVED_CUSTOM_THUMB_NAIL = "<b>thumbnail Saved ✅ This Is Permanent Until</b> /delthumb ❤"
     DEL_ETED_CUSTOM_THUMB_NAIL = "thumbnail cleared succesfully🤦"
